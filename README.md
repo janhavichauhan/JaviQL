@@ -70,14 +70,12 @@ DB_PASSWORD=your_password
 
 ## ☁️ Ship it
 
-A `render.yaml` is included. Point [Render](https://render.com) at this repo and it deploys.
+A `render.yaml` is included.
 
 ---
 
 <div align="center">
 
 **Made with 💙 for everyone who has ever typed DELETE and held their breath.**
-
-<sub>MIT License</sub>
 
 </div>
